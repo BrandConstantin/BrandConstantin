@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BrandConstantin github stats](https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=merko)
+![BrandConstantin github stats](https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8)](https://github.com/BrandConstantin/github-readme-stats)
 
-[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/BrandConstantin/github-readme-stats)
 11
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
