@@ -24,3 +24,8 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 </a>
 
 [![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational??style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
