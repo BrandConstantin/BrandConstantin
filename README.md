@@ -1,4 +1,4 @@
-### GitHub Readme Stats 👋
+                                                                ### GitHub Readme Stats 👋
 
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ the original project >> https://github.com/anuraghazra/github-readme-stats#custo
 <a href="https://github.com/BrandConstantin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
 </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
