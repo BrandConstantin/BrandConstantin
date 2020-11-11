@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![BrandConstantin github stats](https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8)](https://github.com/BrandConstantin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8)](https://github.com/BrandConstantin/BrandConstantin.git)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/BrandConstantin/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin/BrandConstantin.git)
 11
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
