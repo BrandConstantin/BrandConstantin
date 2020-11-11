@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-the original project >> https://github.com/anuraghazra/github-readme-stats#customization
+the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
 
 <a href="https://github.com/BrandConstantin?tab=repositories">
