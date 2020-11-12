@@ -8,10 +8,10 @@
 Here are some ideas to get you started:-->
 - 🔭 I’m currently working on Cargestion from Torremolinos
 - 🌱 I’m currently learning jQuery, Python etc
+- 📫 How to reach me: [gmail]: mailto:constantin.brindu@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
@@ -35,15 +35,18 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 
 
-[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
-<p align="right" style="display:inline">
+<p align="center">
   <a href="https://github.com/BrandConstantin?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
   </a>
 </p>
-<a href="https://github.com/BrandConstantin?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
-</a>
+<p align="center">
+  <a href="https://github.com/BrandConstantin?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
+  </a>
+</p>
+
+[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
 
 
 <!--
