@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/BrandConstantin/BrandConstantin/master/profile_light.gif)]
+[![Header](https://github.com/BrandConstantin/real-projects/blob/master/pexels-negative-space-160107.jpg)]
 <h3 align="center">A passionate developer from Málaga</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
