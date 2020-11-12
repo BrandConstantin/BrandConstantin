@@ -19,12 +19,7 @@ Here are some ideas to get you started:-->
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,15 +27,28 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 </p>
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display:inline">
+<a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
+</p>
+<p align="right" style="display:inline">
+  <a href="https://github.com/BrandConstantin?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
+  </a>
+</p>
+
+
+<p align="left" style="display:inline">
 <a href="https://github.com/BrandConstantin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
 </a>
-<a href="https://github.com/BrandConstantin?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
-</a>
-
+</p>
+<p align="right" style="display:inline">
 [![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
-
+</p>
+<!--
 ## 🔧 Technologies & Tools
 <!-- https://shields.io -->
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=orange)
@@ -48,5 +56,5 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=orange)
-
+-->
 
