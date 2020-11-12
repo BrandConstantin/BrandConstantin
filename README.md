@@ -38,7 +38,9 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 </p>
 
 
-[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+<p align="left" style="display:inline">
+  [![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+</p>
 <p align="right" style="display:inline">
 <a href="https://github.com/BrandConstantin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
