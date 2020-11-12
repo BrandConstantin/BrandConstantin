@@ -1,5 +1,8 @@
 <h3 align="center">A passionate developer from Málaga</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
+
+<a href="https://dev.to/BrandConstantin"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=22></a>
+
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
