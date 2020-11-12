@@ -38,17 +38,17 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 </p>
 
 
-
-<p align="left" style="display:inline">
+[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+<p align="right" style="display:inline">
 <a href="https://github.com/BrandConstantin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
 </a>
 </p>
-[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
+
 
 <!--
 ## 🔧 Technologies & Tools
-<!-- https://shields.io -->
+<!-- https://shields.io 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
