@@ -1,20 +1,19 @@
 <h3 align="center">A passionate developer from Málaga</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
-<a href="https://dev.to/BrandConstantin"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=22></a>
 
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+Here are some ideas to get you started:-->
+- 🔭 I’m currently working on Cargestion from Torremolinos
+- 🌱 I’m currently learning jQuery, Python etc
+<!-- - 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
 <!--
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
@@ -23,6 +22,7 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 <p align="left">
 <a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
