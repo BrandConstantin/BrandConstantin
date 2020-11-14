@@ -51,8 +51,6 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 [![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)
 
-## Spotify Rock Playing 🎧
-[<img align="middle" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="100%" />](https://open.spotify.com/playlist/4puvPll4nIjfDFJG56bO3u?si=UfVTLLF_Rkmq9yEVXFYhlw)
 <!--
 ## 🔧 Technologies & Tools
 <!-- https://shields.io 
