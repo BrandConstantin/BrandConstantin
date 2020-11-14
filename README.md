@@ -26,6 +26,7 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 <a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
+    <a href="https://profile.codersrank.io/user/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="1248133" height="30" width="40" /></a>
 </p>
 
 
