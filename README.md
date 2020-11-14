@@ -1,4 +1,6 @@
-
+<!-- 
+[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
+-->
 <h3 align="center">A passionate developer from Málaga</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
