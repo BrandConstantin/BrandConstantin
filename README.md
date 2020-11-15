@@ -19,9 +19,9 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 </p>
-<div style="width:100px; height:70px">
-[![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif)](https://github.com/BrandConstantin?tab=repositories)
-</div>
+
+[![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif?thumbnail)](https://github.com/BrandConstantin?tab=repositories)
+
 <!--
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
