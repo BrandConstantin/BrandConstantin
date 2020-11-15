@@ -20,8 +20,8 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...-->
 </p>
 
-[![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif)](https://github.com/BrandConstantin?tab=repositories)
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="100" height="70" />
+<!-- [![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif)](https://github.com/BrandConstantin?tab=repositories) -->
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="200" height="150" />
 <!--
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
