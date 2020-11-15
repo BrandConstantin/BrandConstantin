@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...-->
 </p>
 
-[![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif?thumbnail)](https://github.com/BrandConstantin?tab=repositories)
+[![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif#thumbnail)](https://github.com/BrandConstantin?tab=repositories)
 
 <!--
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
