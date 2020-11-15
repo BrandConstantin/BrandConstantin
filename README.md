@@ -6,7 +6,8 @@
 <h3 align="center">A passionate developer from Málaga</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
-<p align="left">
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="250" height="180" style="display:inline-block"/>
+<p align="right">
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
@@ -21,7 +22,7 @@ Here are some ideas to get you started:-->
 </p>
 
 <!-- [![Header](https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif)](https://github.com/BrandConstantin?tab=repositories) -->
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="200" height="150" />
+
 <!--
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
