@@ -41,7 +41,7 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time"/>
+<img align="center" src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time"/>
 
 
 
