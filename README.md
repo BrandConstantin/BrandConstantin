@@ -4,9 +4,10 @@
 -->
 
 <h3 align="center">A passionate developer from Málaga</h3>
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="300" height="240" style="display:inline-block;"/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="300" height="240" style="display:inline-block; align:right"/>
+
 <p align="left">
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
