@@ -33,7 +33,7 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 </p>
 
 
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time" style="display:inline-block;"/>
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time" style="width:300px; height=260px"/>
 
 
 
