@@ -51,16 +51,16 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 
 
+<p align="left">
+  <a href="https://github.com/BrandConstantin?tab=repositories">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
+  </a>
+</p>
 
 ### ⚡ Recent Activity
 1. 🎉 14 commits [Merge pull request #17](https://github.com/BrandConstantin/real-projects/commit/e1c077faaa03707ee1d2ff4726ee0e2e6ed6c379) in [real-projects](https://github.com/BrandConstantin/real-projects)
 2. 💪 15 commits [#many to many](https://github.com/BrandConstantin/python/commit/4f30891ec197d147c464e451144f7e8e001afcc5) in [python](https://github.com/BrandConstantin/python)
 3. 🎉 8 commits [Merge pull request #39](https://github.com/BrandConstantin/Hibernate/commit/9cb308c8fc848b70637728eb5d3ae73ff457a5a1) in [Hibernate](https://github.com/BrandConstantin/Hibernate)
-<p align="right">
-  <a href="https://github.com/BrandConstantin?tab=repositories">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
-  </a>
-</p>
 
 <!--[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)-->
 
