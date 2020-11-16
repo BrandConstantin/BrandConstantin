@@ -4,7 +4,14 @@
 -->
 
 <h3 align="center">A passionate developer from Málaga</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
+<p align="right" style="display:inline"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
+<h3 align="left" style="display:inline">Connect with me:</h3>
+<p align="left" style="display:inline">
+<a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
+    <a href="https://profile.codersrank.io/user/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="1248133" height="30" width="40" /></a>
+</p>
 
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,16 +31,8 @@ Here are some ideas to get you started:-->
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
 
-<h3>Connect with me:</h3>
-<p align="left" style="display:inline">
-<a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/8719215/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1248133" height="30" width="40" /></a>
-    <a href="https://profile.codersrank.io/user/brandconstantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="1248133" height="30" width="40" /></a>
-</p>
-
 <p align="right">
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time" width="300px" height="260px"/>
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time" width="400px" height="360px"/>
 </p>
 
 
