@@ -42,7 +42,7 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 
 
-<img align="right" width="500px" height="450px" src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time"/>
+<img align="right" width="500px" src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="Me all the time"/>
 <p align="right">
   <a href="https://github.com/BrandConstantin?tab=repositories">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
