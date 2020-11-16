@@ -47,14 +47,14 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/BrandConstantin?tab=repositories">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandConstantin&show_icons=true&theme=gruvbox" />
   </a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://github.com/BrandConstantin?tab=repositories">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandConstantin&langs_count=8" />
   </a>
 </p>
 
