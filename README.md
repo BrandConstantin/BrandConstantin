@@ -4,7 +4,6 @@
 -->
 
 <h3 align="center">A passionate developer from Málaga</h3>
-<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="300" height="240" style="display:inline-block;"/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BrandConstantin" alt="BrandConstantin" /> </p>
 
 
@@ -28,7 +27,11 @@ Here are some ideas to get you started:-->
 the original project  https://github.com/anuraghazra/github-readme-stats#customization
 -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
+
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" title="A cute kitten" width="400" height="300" style="display:inline-block;"/>
+
+
 <p align="left" style="display:inline">
 <a href="https://linkedin.com/in/in/constantin-brindusoiu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/constantin-brindusoiu/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/brand_constantin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="brand_constantin" height="30" width="40" /></a>
