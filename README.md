@@ -58,6 +58,9 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
   </a>
 </p>
 
+
+
+<br/><br/><br/><br/>
 ### ⚡ Recent Activity
 1. 🎉 14 commits [Merge pull request #17](https://github.com/BrandConstantin/real-projects/commit/e1c077faaa03707ee1d2ff4726ee0e2e6ed6c379) in [real-projects](https://github.com/BrandConstantin/real-projects)
 2. 💪 15 commits [#many to many](https://github.com/BrandConstantin/python/commit/4f30891ec197d147c464e451144f7e8e001afcc5) in [python](https://github.com/BrandConstantin/python)
