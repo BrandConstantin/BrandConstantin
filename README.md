@@ -69,7 +69,10 @@ the original project  https://github.com/anuraghazra/github-readme-stats#customi
 3. 🎉 8 commits [Merge pull request #39](https://github.com/BrandConstantin/Hibernate/commit/9cb308c8fc848b70637728eb5d3ae73ff457a5a1) in [Hibernate](https://github.com/BrandConstantin/Hibernate)
 
 <!--[![BrandConstantin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrandConstantin)](https://github.com/BrandConstantin?tab=repositories)-->
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhank93&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=madhank93&show_icons=true&theme=tokyonight)](https://github.com/madhank93/github-readme-stats)
+-->
 <!--
 ## 🔧 Technologies & Tools
 <!-- https://shields.io 
