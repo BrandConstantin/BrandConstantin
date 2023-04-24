@@ -18,8 +18,8 @@
 <!--
 **BrandConstantin/BrandConstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
-- 🔭 I’m currently working on Cargestion from Torremolinos
-- 🌱 I’m currently learning jQuery, Python etc
+- 🔭 I’m currently working with Java
+- 🌱 I’m currently learning Spring
 - 📫 How to reach me: [gmail]: constantin.brindu@gmail. com
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
